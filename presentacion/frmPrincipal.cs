@@ -190,6 +190,7 @@ namespace presentacion
             lblErrorCampo.Text = "";
             cboCriterio.SelectedIndex = -1;
             lblErrorCriterio.Text = "";
+            txtFiltroAvanzado.Text = "";
             cargar();
         }
 
